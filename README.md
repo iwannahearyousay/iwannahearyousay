@@ -5,20 +5,20 @@
 
 <div align="right">
 
-  ${\texttt{\color{#9d5910}life is impossible.}}$   ${\textsf{\color{#efedeb} we can help.}}$  
+  ${\textsf{\color{#9d5910}life is impossible.}}$   ${\textsf{\color{#efedeb} we can help.}}$  
   
 ![](https://komarev.com/ghpvc/?username=iwannahearyousayt&abbrievated=true&style=plastic&color=9d5910&label=ATTENDEES.) 
 <details>
 <summary>𝗌𝗈𝖼𝗂𝖺𝗅𝗌</summary>
 <list>
   
-${\texttt{\color{#9d5910}insta: hadahellofatime
+${\textsf{\color{#9d5910}insta: hadahellofatime}}$
 
 discord: bloodlustlikenoother
 
 airbuds: iwannahearyousay
 
-twitter: hadahellofatime}}$
+twitter: hadahellofatime
 
 </list>
 </details> </p>
