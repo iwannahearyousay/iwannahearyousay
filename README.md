@@ -1,6 +1,6 @@
 
 
-![](https://komarev.com/ghpvc/?username=iwannahearyousayt&abbrievated=true&style=plastic&color=9d5910&label=partygoers) 
+![](https://komarev.com/ghpvc/?username=iwannahearyousayt&abbrievated=true&style=plastic&color=9d5910&label=ATTENDEES.) 
 <details>
 <summary>𝗌𝗈𝖼𝗂𝖺𝗅𝗌</summary>
 <list>
