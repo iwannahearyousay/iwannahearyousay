@@ -1,6 +1,4 @@
-<div align="center">
 
-<img align="left" src="" width="280">
 
 
 
@@ -19,4 +17,3 @@ twitter: hadahellofatime </list>
 
 
 
-</div>
