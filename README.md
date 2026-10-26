@@ -1,6 +1,6 @@
-
-
-
+$${\color{red}This\ is\ red\ text}$$
+$${\color{blue}This\ is\ blue\ text}$$
+$${\color{green}This\ is\ green\ text}$$
 
   
 ![](https://komarev.com/ghpvc/?username=iwannahearyousayt&abbrievated=true&style=plastic&color=9d5910&label=ATTENDEES.) 
