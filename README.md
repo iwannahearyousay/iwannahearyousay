@@ -1,24 +1,26 @@
 
 <div align="center">
 
+<img align="left" width="250" height="358" alt="image" src="https://github.com/user-attachments/assets/ee724cc2-ee16-4b99-8e93-360a568239ea" />
+
 
 
 <div align="right">
 
-  ${\textsf{\color{#9d5910}life is impossible.}}$   ${\textsf{\color{#efedeb} we can help.}}$  
+  ${\textsf{\color{#9d5910}life is impossible.}}$ $${\textsf{\color{#d1cbc8}. . .}}$$ ${\textsf{\color{#efedeb} we can help.}}$  
   
 ![](https://komarev.com/ghpvc/?username=iwannahearyousayt&abbrievated=true&style=plastic&color=9d5910&label=ATTENDEES.) 
 <details>
 <summary>𝗌𝗈𝖼𝗂𝖺𝗅𝗌</summary>
 <list>
   
-${\textsf{\color{#9d5910}insta: hadahellofatime}}$
+${\textsf{\color{#6d5d51}insta: hadahellofatime}}$
 
-discord: bloodlustlikenoother
+${\textsf{\color{#735644}discord: bloodlustlikenoother}}$
 
-airbuds: iwannahearyousay
+${\textsf{\color{#50443b}airbuds: iwannahearyousay}}$
 
-twitter: hadahellofatime
+${\textsf{\color{#938171}twitter: hadahellofatime}}$
 
 </list>
 </details> </p>
