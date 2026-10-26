@@ -7,7 +7,7 @@
 
 <div align="right">
 
-  ${\textsf{\color{#9d5910}life is impossible.}}$ $${\textsf{\color{#d1cbc8}. . .}}$$ ${\textsf{\color{#efedeb} we can help.}}$  
+  ${\textsf{\color{#9d5910}life is impossible.}}$ $${\textsf{\color{#d1cbc8}. . .}}$$ ${\textsf{\color{#ada9a5} we can help.}}$  
   
 ![](https://komarev.com/ghpvc/?username=iwannahearyousayt&abbrievated=true&style=plastic&color=9d5910&label=ATTENDEES.) 
 <details>
