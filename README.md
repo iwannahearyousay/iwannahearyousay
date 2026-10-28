@@ -29,3 +29,25 @@ ${\textsf{\color{#938171}twitter: hadahellofatime}}$
 
 </div>
 
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<details>
+<summary>${textsf{featured}}$</summary>
+  @THE-TEMPIST's Darnell (Pico's School)
+</details>
