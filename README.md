@@ -48,6 +48,6 @@ ${\textsf{\color{#938171}twitter: hadahellofatime}}$
 
   
 <details>
-<summary>${textsf{featured}}$</summary>
-  @THE-TEMPIST's Darnell (Pico's School)
+<summary>${{featured}}$</summary>
+  @THE-TEMPIST - Darnell (Pico's School)
 </details>
