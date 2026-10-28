@@ -49,5 +49,5 @@ ${\textsf{\color{#938171}twitter: hadahellofatime}}$
   
 <details>
 <summary>${{featured}}$</summary>
-  @THE-TEMPIST - Darnell (Pico's School)
+  [THE TEMPEST'S](https://github.com/THE-TEMPIST) - Darnell (Pico's School)
 </details>
